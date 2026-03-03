@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi there 👋, I'm Vanezza!
 
-<!--
-**vanezzags/vanezzags** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSCAPP candidate at the University of Chicago  
+🏦 Data Analyst at a Central Bank  
+📊 Economist with a focus on financial systems, regulation, and inclusion  
+📍 Chicago
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔎 Professional Focus
+
+I work at the intersection of finance, data, and public policy.  
+My interests include:
+
+- Financial regulation & supervisory data analysis  
+- Financial inclusion and digital finance  
+- Risk management and macro-financial stability  
+- Applied econometrics for policy evaluation  
+
+---
+
+## 🛠 My Coding Arsenal
+Python | R | Git
+
+---
+
+## 📈 Some Projects
+
+- Supervisory financial data validation and automation pipelines  
+- Risk indicator monitoring and dashboard development  
+- Research on immigration narratives and stock market responses 
+
+---
+
+## 🎓 Education
+
+M.S. in Computational Analysis and Public Policy  
+University of Chicago (Expected 2027)
+B.Sc. in Economics 
+
+---
+
+## 📫 Connect
+
+[![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/tuusuario/) [linkedin.com/in/vanezzagonzalez]  
+
