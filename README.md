@@ -20,7 +20,12 @@ My interests include:
 ---
 
 ## 🛠 My Coding Arsenal
-Python | R | Git
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40"/><br>Python
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40"/><br>R
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40"/><br>Git
+</div>
 
 ---
 
@@ -40,11 +45,10 @@ B.Sc. in Economics
 
 ---
 
-## 📫 Connect
+## 📫 Let's Connect
 
-<a href="https://www.linkedin.com/in/vanezzagonalez/" target="_blank">
+<a href="https://www.linkedin.com/in/vanezzagonalez/">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="20"/>
-  LinkedIn
 </a>
 
 
