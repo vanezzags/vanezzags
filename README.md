@@ -42,7 +42,9 @@ B.Sc. in Economics
 
 ## 📫 Connect
 
-<a href="https://www.linkedin.com/in/vanezzagonalez/">
+<a href="https://www.linkedin.com/in/vanezzagonalez/" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="20"/>
+  LinkedIn
+</a>
 
 
