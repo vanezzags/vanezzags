@@ -15,7 +15,8 @@ My interests include:
 - Financial regulation & supervisory data analysis  
 - Financial inclusion and digital finance  
 - Risk management and macro-financial stability  
-- Applied econometrics for policy evaluation  
+- Applied econometrics for policy evaluation
+
 
 ---
 
@@ -29,9 +30,28 @@ My interests include:
 
 ## 📈 Some Projects
 
-- Supervisory financial data validation and automation pipelines  
-- Risk indicator monitoring and dashboard development  
-- Research on immigration narratives and stock market responses 
+- Research on Immigration Narratives & Stock Market Responses
+[Group Project | University of Chicago] Applied Econometrics | Financial Analysis
+
+An interdisciplinary study examining the lead-lag relationship between immigration news coverage and U.S. market indicators. We integrated and analyzed a massive dataset of 526,264 articles from GDELT, linking them with labor market data (BLS) and daily stock movements (Yahoo Finance).
+
+Core Research: Investigated whether immigration news predicts or follows economic changes.
+
+Key Finding: Economic conditions drive news coverage, not the other way around—highlighting that media narratives often react to, rather than trigger, market shifts.
+
+Stack: Python (Pandas, Statsmodels, streamlit), GDELT API, Time-Series Econometrics.
+
+- Central Bank: Supervisory Data Automation
+Financial Regulation
+
+Developed automated pipelines for financial data validation, reducing manual reporting errors and increasing the efficiency of supervisory cycles.
+
+Designed real-time risk indicator dashboards to monitor macro-financial stability and institutional health.
+
+- Financial Inclusion & Digital Finance
+Policy Evaluation 
+
+Econometric analysis of digital banking adoption and its impact on financial stability and inclusion across diverse demographic sectors.
 
 ---
 
